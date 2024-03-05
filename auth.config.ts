@@ -1,3 +1,5 @@
+// comment here to redeploy with prod env
+
 import type { NextAuthConfig } from 'next-auth';
  
 export const authConfig = {
